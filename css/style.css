@@ -1,0 +1,29 @@
+
+
+.navbar-nav{
+    background-color: #4242425d;
+}
+
+
+.carousel{
+    max-height: 70vh;
+    overflow: hidden;
+}
+
+.carousel img{
+    background-position: bottom;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    
+    height: auto;
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover{
+    background-color: rgb(63, 8, 45);    
+    transition: all .3s;
+}
+
+section .about .container{
+    background-color: #000 !important;
+}
